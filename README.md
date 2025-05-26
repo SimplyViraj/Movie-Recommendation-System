@@ -1,4 +1,5 @@
 # 🎬 Movie Recommendation System
+> Note: Please go through the code.ipynb since it has all the markdowns with a detailed description from preprocessing to testing.
 
 ## 📌 Overview
 
